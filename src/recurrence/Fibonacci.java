@@ -1,5 +1,5 @@
 package recurrence;
-
+// 例3.2 斐波那契数列
 public class Fibonacci {
     public static void main(String[] args) {
         int f0 = 1, f1 = 1, f2;
